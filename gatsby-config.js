@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: process.env.PATH_PREFIX,
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
