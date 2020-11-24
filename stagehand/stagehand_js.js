@@ -1,4 +1,4 @@
-const isSPA = false
+const isSPA = true
 const pageRoutesServedFromIndex = true
 
 window.addEventListener("DOMContentLoaded", function (e) {
